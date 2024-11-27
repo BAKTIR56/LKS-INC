@@ -1,0 +1,40 @@
+ONT 
+(Optical Network Terminal)
+ONT itu mempunyai jaringan wearlesss 
+dan ont itu lebih spesifik 
+ONT = mendistribusikan melalui wired dan wireless
+
+ONU
+(Optical Network Unit)
+Onu itu tidak punya 
+ONU itu dia hanya bisa mengakses internet dari wiret only(kabel)
+dan tidak spesifik 
+dan itu FTTB (Fiber To The Building) adalah 
+teknologi jaringan telekomunikasi yang menggunakan serat optik sebagai media transmisi untuk menghubungkan sinyal optik ke gedung bertingkat.
+
+
+ODP (Optical Distribution Point)
+perangkat yang berfungsi untuk melindungi dan membagi kabel serat optik (fiber optic) ke beberapa pelanggan
+
+
+OLT (Optical Lines Terminal)
+PON 2 pasif optical network ( Tempat keluarnya sinyal optik )
+Uplink (Tempat memasukan internet)
+MGMP ( port untuk konfigurasi pada olt )
+
+OLT itu ada epon , gpon 
+EPHON
+(ETHERNET PASIVE OPTICAL NETWORK)
+bisa mendistribusikan internet sampau dengan 1.25G
+GPON 
+( GIGABYTE PASSIVE OPTIKCAL NETWORK )
+bisa mendistribusikan internet dengan 2.5G
+
+
+spliter ada 2 jenis yaitu ada
+
+
+Rasio contohnya 1:2 1:4 dst 
+membagi redaman secara merata 
+Rasio Spesial 
+membagi redaman secara presentasenya 
